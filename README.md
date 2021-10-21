@@ -21,6 +21,6 @@ Requisitos Não Funcionais:
 
 Tecnologias:
 
-.NET
-Vue
-SQLite
+- .NET
+- Vue
+- SQLite
