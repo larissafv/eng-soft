@@ -1,9 +1,9 @@
 Grupo:
 
-Nome: Ivan | Matrícula: xx
-Nome: Jackson | Matrícula: xx
-Nome: Lucas Augusto Araújo Aguiar | Matrícula: 2018054494
-Nome: Luís | Matrícula: xx
+- Nome: Ivan                        | Matrícula: xx
+- Nome: Jackson                     | Matrícula: xx
+- Nome: Lucas Augusto Araújo Aguiar | Matrícula: 2018054494
+- Nome: Luís                        | Matrícula: xx
 
 
 Tema: Compra/Locação de imóveis (?)
