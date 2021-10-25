@@ -16,7 +16,7 @@ Requisitos Funcionais:
 - Negociação(?) : mecanismo pra comunicação e tal
 
 Requisitos Não Funcionais:
-- Visualização do imóvel
+- Alta disponibilidade. 99% Uptime.
 - ?
 
 Tecnologias:
